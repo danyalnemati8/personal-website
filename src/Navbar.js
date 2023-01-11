@@ -4,7 +4,7 @@ import "./styles.css"
 export default function Navbar() {
   return (
     <nav className="nav">
-        <a href='/' className='WebTitle'>WebTitle</a>
+        <a href='/' className='WebTitle'>Welcome!</a>
         <ul>
             <li>
                 <a href='/About'>About</a>
